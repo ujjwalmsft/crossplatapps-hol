@@ -1,5 +1,4 @@
-## Dev Days HOL
-Dev Days provide attendees with an intense, hands-on learning experience. Spend the time exploring mobile development with sessions from Xamarin & Azure Experts, our technology partners, and members of the local developer community, then roll up your sleeves for an afternoon dedicated to diving into code.
+## Cross platform app dev with Azure - HOL
 
 Inside this repo you will find all of the hands on labs that you will experience at Dev Days!
 
